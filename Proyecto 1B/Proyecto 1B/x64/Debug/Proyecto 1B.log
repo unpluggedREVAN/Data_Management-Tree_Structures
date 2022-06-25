@@ -1,0 +1,10 @@
+﻿  Proyecto 1B.cpp
+D:\Proyectos C++\Proyecto 1A y 1B\Carpeta final\Enviar\Proyecto 1B\Proyecto 1B\Proyecto 1B.cpp(133,7): warning C4101: 'nombre2': variable local sin referencia
+D:\Proyectos C++\Proyecto 1A y 1B\Carpeta final\Enviar\Proyecto 1B\Proyecto 1B\Proyecto 1B.cpp(130,7): warning C4101: 'sexo2': variable local sin referencia
+D:\Proyectos C++\Proyecto 1A y 1B\Carpeta final\Enviar\Proyecto 1B\Proyecto 1B\Proyecto 1B.cpp(1043,11): warning C4129: 'B': secuencia de escape de carácter no reconocida
+D:\Proyectos C++\Proyecto 1A y 1B\Carpeta final\Enviar\Proyecto 1B\Proyecto 1B\Proyecto 1B.cpp(1057,11): warning C4129: 'B': secuencia de escape de carácter no reconocida
+D:\Proyectos C++\Proyecto 1A y 1B\Carpeta final\Enviar\Proyecto 1B\Proyecto 1B\Proyecto 1B.cpp(1070,11): warning C4129: 'B': secuencia de escape de carácter no reconocida
+D:\Proyectos C++\Proyecto 1A y 1B\Carpeta final\Enviar\Proyecto 1B\Proyecto 1B\Proyecto 1B.cpp(1083,11): warning C4129: 'B': secuencia de escape de carácter no reconocida
+D:\Proyectos C++\Proyecto 1A y 1B\Carpeta final\Enviar\Proyecto 1B\Proyecto 1B\Proyecto 1B.cpp(995,16): warning C4101: 'codi': variable local sin referencia
+D:\Proyectos C++\Proyecto 1A y 1B\Carpeta final\Enviar\Proyecto 1B\Proyecto 1B\Proyecto 1B.cpp(996,7): warning C4101: 'cedula': variable local sin referencia
+  Proyecto 1B.vcxproj -> D:\Proyectos C++\Proyecto 1A y 1B\Carpeta final\Enviar\Proyecto 1B\x64\Debug\Proyecto 1B.exe

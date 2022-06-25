@@ -1,0 +1,418 @@
+206410461,210015, ,20281018,00000,HENRY ELIECER                 ,GOMEZ                     ,MARIN                     
+206410425,208004, ,20320202,00000,MARJORIE                      ,CASTRO                    ,MARIN                     
+206410266,406001, ,20300204,00000,LUIS DIEGO                    ,MARTINEZ                  ,MARIN                     
+206410226,206001, ,20281207,00000,TATIANA                       ,HERNANDEZ                 ,MARIN                     
+206400843,401005, ,20220510,00000,DANNY                         ,JIMENEZ                   ,MARIN                     
+206370278,504001, ,20280207,00000,YESENIA                       ,NAVARRO                   ,MARIN                     
+206370114,108001, ,20300204,00000,LADY                          ,ALFARO                    ,MARIN                     
+206270417,208001, ,20300204,00000,MARCELA                       ,CAMPOS                    ,MARIN                     
+206370081,215003, ,20300204,00000,KEMBERLIN                     ,MOJICA                    ,MARIN                     
+206400740,201051, ,20261201,00000,STEPHANIE                     ,LOPEZ                     ,MARIN                     
+206390953,206021, ,20320202,00000,JESSY ALEXANDER               ,ARROYO                    ,MARIN                     
+206390897,208004, ,20320202,00000,JOSE RAUL                     ,RAMIREZ                   ,MARIN                     
+206400103,210005, ,20260405,00000,KEILOR JESUS                  ,ABARCA                    ,MARIN                     
+206390643,210017, ,20250406,00000,JOSEPH MAURICIO               ,ZAMORA                    ,MARIN                     
+206390654,201051, ,20250420,00000,MILTON ANDRES                 ,SOTO                      ,MARIN                     
+206390749,210063, ,20261027,00000,RANDALL MAURICIO              ,BALLESTERO                ,MARIN                     
+205960032,212002, ,20320202,00000,YEISON GERARDO                ,CASTRO                    ,MARIN                     
+205960033,212002, ,20320202,00000,ANDREA MARIA                  ,CASTRO                    ,MARIN                     
+205950784,201047, ,20240314,00000,ANDREY MAURICIO               ,BEITA                     ,MARIN                     
+205950735,202004, ,20320202,00000,JOSE ELADIO                   ,CARRANZA                  ,MARIN                     
+205960481,602001, ,20301126,00000,KATIA                         ,SANCHEZ                   ,MARIN                     
+205960637,814001, ,20280627,00000,VIVIANA MARIA                 ,ARGUEDAS                  ,MARIN                     
+205960405,508014, ,20320202,00000,HARLEY GERARDO                ,ANCHIA                    ,MARIN                     
+205960297,208004, ,20300615,00000,OSCAR MARIO                   ,QUESADA                   ,MARIN                     
+205960181,210011, ,20280215,00000,JOSE PABLO                    ,GOMEZ                     ,MARIN                     
+205960152,210028, ,20280726,00000,ELI ALONSO                    ,ARIAS                     ,MARIN                     
+205970137,208001, ,20221030,00000,ANA ALEXANDRA                 ,ROJAS                     ,MARIN                     
+206210914,212002, ,20250226,00000,NANCY MELISSA                 ,BLANCO                    ,MARIN                     
+205960802,202004, ,20270314,00000,NENIA GRACIELA                ,ARTAVIA                   ,MARIN                     
+206260545,206001, ,20281002,00000,JASON                         ,SALAZAR                   ,MARIN                     
+206260928,210028, ,20280808,00000,ARELIS                        ,ARIAS                     ,MARIN                     
+206260870,206001, ,20261003,00000,ANDREA MARIA                  ,VARELA                    ,MARIN                     
+206250653,702016, ,20300204,00000,BERNY                         ,ACUÑA                     ,MARIN                     
+206250012,210012, ,20240926,00000,JUAN ANDREY                   ,GONZALEZ                  ,MARIN                     
+206250024,210049, ,20230301,00000,RAFAEL ANDRES                 ,CARBALLO                  ,MARIN                     
+117000684,106002, ,20320202,00000,JORDAN EDUARDO                ,MUÑOZ                     ,MARIN                     
+117000609,111005, ,20300617,00000,LUIS ESTEBAN                  ,MORALES                   ,MARIN                     
+117000507,108005, ,20260823,00000,MARIA JOSE                    ,ARCE                      ,MARIN                     
+117000397,108010, ,20320202,00000,FRANCINI                      ,ROJAS                     ,MARIN                     
+116970561,101003, ,20260202,00000,GUISELLE MARIA                ,GONZALEZ                  ,MARIN                     
+116970443,102001, ,20260202,00000,JORGE LUIS                    ,SERRANO                   ,MARIN                     
+116970232,114001, ,20260202,00000,LUIS DIEGO                    ,MARTINEZ                  ,MARIN                     
+117010578,203015, ,20270310,00000,MARIA JOSE                    ,CESPEDES                  ,MARIN                     
+117010248,210021, ,20260217,00000,HELLEN PAOLA                  ,MARIN                     ,MARIN                     
+117010284,114007, ,20260202,00000,AARON STEVEN                  ,HERNANDEZ                 ,MARIN                     
+117010170,119122, ,20260202,00000,SARAY                         ,MURCIA                    ,MARIN                     
+117010135,103007, ,20280207,00000,GUILLERMO ALBERTO             ,MORALES                   ,MARIN                     
+117010099,119090, ,20250717,00000,KIMBERLY MELISSA              ,BARBOZA                   ,MARIN                     
+117000990,101006, ,20260209,00000,LUIS FELIPE                   ,CHAVARRIA                 ,MARIN                     
+117000975,104022, ,20260204,00000,MARICRUZ                      ,MARIN                     ,MARIN                     
+116960436,101024, ,20280207,00000,BRYAN JOSE                    ,DAVILA                    ,MARIN                     
+116920504,401006, ,20250821,00000,NIKOLE DANIELA                ,ROMAN                     ,MARIN                     
+116960318,303015, ,20250513,00000,RAQUEL SOFIA                  ,AZOFEIFA                  ,MARIN                     
+116920466,119113, ,20280808,00000,VICTOR HUGO                   ,LOAIZA                    ,MARIN                     
+116920438,110002, ,20300221,00000,YENDRY PAOLA                  ,RAMIREZ                   ,MARIN                     
+116920436,102006, ,20280705,00000,KAROL ANDREA                  ,ARMIJO                    ,MARIN                     
+116920161,102002, ,20320202,00000,LUIS ALEJANDRO                ,MADRIGAL                  ,MARIN                     
+116920323,102006, ,20280207,00000,RODRIGO DE LOS ANGELES        ,AGUILAR                   ,MARIN                     
+116920381,119023, ,20300204,00000,BRYAN OVIDIO                  ,MENA                      ,MARIN                     
+116960569,103004, ,20301020,00000,HECTOR STEVEN                 ,BRENES                    ,MARIN                     
+116970078,303006, ,20270519,00000,ALVARO MARTIN                 ,GONZALEZ                  ,MARIN                     
+116970098,814005, ,20320202,00000,GENESIS SAULIN                ,PICADO                    ,MARIN                     
+116780141,104001, ,20260927,00000,KENIA                         ,ARGUEDAS                  ,MARIN                     
+116780307,119093, ,20320202,00000,PEDRO ALEJANDRO               ,SALAZAR                   ,MARIN                     
+116780305,119074, ,20280219,00000,MELISSA DEL CARMEN            ,JIMENEZ                   ,MARIN                     
+116780492,106003, ,20250514,00000,WILLIAM FABRICIO              ,VARGAS                    ,MARIN                     
+116780669,101025, ,20270505,00000,SHARON PAOLA                  ,SANCHEZ                   ,MARIN                     
+116780636,110009, ,20270112,00000,KATHERINE DAYAN               ,RETANA                    ,MARIN                     
+116920019,114003, ,20270220,00000,ALDO JOSE                     ,AGUILAR                   ,MARIN                     
+116580859,108011, ,20241118,00000,KIMBERLYN STEFANNY            ,BOLAÑOS                   ,MARIN                     
+116580797,102002, ,20250618,00000,MARCO ANTONIO                 ,ELIZONDO                  ,MARIN                     
+116590004,202004, ,20280229,00000,NATASHA PAOLA                 ,SALAS                     ,MARIN                     
+116580982,103003, ,20280516,00000,NICOLE NAZARIA                ,FALLAS                    ,MARIN                     
+116580195,115001, ,20300204,00000,SOFIA                         ,SALAZAR                   ,MARIN                     
+116580608,409002, ,20241013,00000,LUIS FERNANDO                 ,RODRIGUEZ                 ,MARIN                     
+116580711,119001, ,20300204,00000,IBY REBECA                    ,ABARCA                    ,MARIN                     
+116580563,101010, ,20320202,00000,DERRYL GABRIELA               ,ALVAREZ                   ,MARIN                     
+116690487,106023, ,20280927,00000,JENSY PAOLA                   ,AZOFEIFA                  ,MARIN                     
+116690109,101007, ,20300204,00000,LUIS EDUARDO                  ,SABORIO                   ,MARIN                     
+116530336,108001, ,20240829,00000,MARIA JOSE                    ,TORRES                    ,MARIN                     
+116700113,109004, ,20320202,00000,MARIA SAMANTHA                ,MENA                      ,MARIN                     
+116700115,103001, ,20250716,00000,JEISON ANDRES                 ,CORDOBA                   ,MARIN                     
+116740311,113006, ,20250506,00000,MARIA DE JESUS                ,BADILLA                   ,MARIN                     
+116740404,103018, ,20250415,00000,AARON JOSUE                   ,PICADO                    ,MARIN                     
+116740103,103026, ,20320202,00000,HAZEL EMILIA                  ,ARAYA                     ,MARIN                     
+116730963,119060, ,20280327,00000,JEUDY MARCELO                 ,DELGADO                   ,MARIN                     
+116740029,110009, ,20250408,00000,MARIA JOSE                    ,MARIN                     ,MARIN                     
+116740903,106007, ,20250416,00000,MARILIZ                       ,CORRALES                  ,MARIN                     
+116740887,406003, ,20250519,00000,ANDRES ANTONIO                ,BADILLA                   ,MARIN                     
+116740622,108010, ,20320202,00000,DANIEL JOSE                   ,GUZMAN                    ,MARIN                     
+116740520,119088, ,20300204,00000,SABRINA VERONICA              ,MARTINEZ                  ,MARIN                     
+116740702,112007, ,20250507,00000,KEVIN GEOVANNI                ,PADILLA                   ,MARIN                     
+116770934,103028, ,20280207,00000,LOGAN LISANDRO                ,CALDERON                  ,MARIN                     
+116780118,209001, ,20281120,00000,KEVIN DAVID                   ,ROJAS                     ,MARIN                     
+116780011,101027, ,20281120,00000,DANIELA CRISTINA              ,GUTIERREZ                 ,MARIN                     
+116780046,107013, ,20250514,00000,ANDREY RICARDO                ,JIMENEZ                   ,MARIN                     
+116770797,402001, ,20300204,00000,DAVID MANUEL                  ,ZARATE                    ,MARIN                     
+116750143,106006, ,20310125,00000,RANDALL ISAAC                 ,NAVARRO                   ,MARIN                     
+116750164,301018, ,20300204,00000,NICOLE                        ,VALVERDE                  ,MARIN                     
+116290902,401006, ,20270420,00000,MICHELLE                      ,ARGUELLO                  ,MARIN                     
+116290984,602007, ,20300204,00000,CARLOS ANDRES                 ,SABORIO                   ,MARIN                     
+116320739,702036, ,20280419,00000,GERARDO                       ,PEARSON                   ,MARIN                     
+116320712,401006, ,20300204,00000,MALCOLM JESUS                 ,BARQUERO                  ,MARIN                     
+116300199,106003, ,20231007,00000,PAOLO CESAR                   ,CASCANTE                  ,MARIN                     
+116300219,101002, ,20240107,00000,EDUARTH ALFONSO               ,ALLON                     ,MARIN                     
+116240383,102002, ,20231029,00000,GUISELLE MARIA                ,CORDOBA                   ,MARIN                     
+116240448,103002, ,20320202,00000,ALONSO JOSE                   ,GARCIA                    ,MARIN                     
+116240424,103002, ,20231001,00000,KAROLINA ISABEL               ,DELGADO                   ,MARIN                     
+116240752,110002, ,20300902,00000,DANNY STEVEN                  ,SALAS                     ,MARIN                     
+116250098,103028, ,20320314,00000,ANDRES STEVEN                 ,CORELLA                   ,MARIN                     
+116250079,111004, ,20300204,00000,ALEXA                         ,RODRIGUEZ                 ,MARIN                     
+116240870,111005, ,20231119,00000,BRYAN ANTONIO                 ,SANCHEZ                   ,MARIN                     
+116240812,119019, ,20231008,00000,YULIANA MARIA                 ,CASTRO                    ,MARIN                     
+116250236,401017, ,20301204,00000,KATHERINE DEL SOCORRO         ,RUGAMA                    ,MARIN                     
+116290124,407003, ,20231008,00000,MARIANA DE LOS ANGELES        ,HERNANDEZ                 ,MARIN                     
+116320743,301027, ,20240206,00000,MARIA JOSE                    ,LEANDRO                   ,MARIN                     
+116320872,103004, ,20240210,00000,YENDRY MARIA                  ,BRENES                    ,MARIN                     
+116320949,102001, ,20300211,00000,DAVID JESUS                   ,SALAZAR                   ,MARIN                     
+116320962,101038, ,20240212,00000,GABRIELA MARIA                ,VARGAS                    ,MARIN                     
+116330029,603001, ,20320202,00000,CRISTHOFER ADRIAN             ,MENA                      ,MARIN                     
+116560853,406003, ,20320202,00000,KEVIN ALEXIS                  ,ESQUIVEL                  ,MARIN                     
+116560812,108005, ,20300204,00000,JONATHAN STUARD               ,BALLESTERO                ,MARIN                     
+116560763,101037, ,20241028,00000,CAROLINA EUGENIA              ,LOPEZ                     ,MARIN                     
+116560644,401010, ,20241016,00000,NATALIA MARCELA               ,CONTRERAS                 ,MARIN                     
+116560550,108007, ,20301105,00000,SARAY                         ,CARVAJAL                  ,MARIN                     
+116560573,103004, ,20320223,00000,STALY EMMANUEL                ,GABRIEL                   ,MARIN                     
+116560534,101008, ,20300219,00000,MAILYN DE LOS ANGELES         ,ELIZONDO                  ,MARIN                     
+116570696,110002, ,20290125,00000,JOSE PABLO                    ,RODRIGUEZ                 ,MARIN                     
+116570747,110001, ,20241104,00000,DIEGO JESUS                   ,MORA                      ,MARIN                     
+116570759,102002, ,20241031,00000,OREANNA MARIA                 ,MORA                      ,MARIN                     
+116570770,102002, ,20241003,00000,KATHERINE MARIANA             ,MADRIGAL                  ,MARIN                     
+116570779,301029, ,20300204,00000,RANDALL DANIEL                ,GUZMAN                    ,MARIN                     
+116570612,103023, ,20320202,00000,KEVIN JOHEL                   ,GONZALEZ                  ,MARIN                     
+116570090,118001, ,20280207,00000,MIGUEL ANGEL                  ,GARCIA                    ,MARIN                     
+116570077,119047, ,20320202,00000,FELIX LORENZO                 ,ARAYA                     ,MARIN                     
+116560983,119033, ,20300204,00000,YAILYN                        ,NUÑEZ                     ,MARIN                     
+116570058,108005, ,20320314,00000,JAVIER DE JESUS               ,BRENES                    ,MARIN                     
+116570031,108011, ,20280921,00000,SHARON YAJAIRA                ,TRAÑA                     ,MARIN                     
+116570455,111005, ,20300204,00000,REBECA JAZMIN                 ,HERNANDEZ                 ,MARIN                     
+116570388,401017, ,20241029,00000,JOHNNY JOSUE                  ,CHACON                    ,MARIN                     
+116100903,824002, ,20280207,00000,BENJAMIN ANDRES               ,GALLO                     ,MARIN                     
+116110240,119001, ,20280319,00000,KATHERINE FABIOLA             ,VILLALOBOS                ,MARIN                     
+116110389,814005, ,20250605,00000,CARLOS DANIEL                 ,DIAZ                      ,MARIN                     
+115320001,109004, ,20270315,00000,MANFRED ELIAS                 ,AGUILUZ                   ,MARIN                     
+115320019,109001, ,20320202,00000,NANCY PAOLA                   ,QUESADA                   ,MARIN                     
+115320009,107002, ,20300526,00000,JESUS IVAN                    ,RODRIGUEZ                 ,MARIN                     
+116100452,119122, ,20281107,00000,JAFETH DE LOS ANGELES         ,MURCIA                    ,MARIN                     
+116100601,103030, ,20320210,00000,ALISON VANESA                 ,AGUERO                    ,MARIN                     
+116100576,113001, ,20300204,00000,SEBASTIAN DE JESUS            ,ARAYA                     ,MARIN                     
+116120291,112007, ,20230729,00000,STEPHANNY DE LOS ANGELES      ,BERMUDEZ                  ,MARIN                     
+116120080,702010, ,20280207,00000,HENY PAOLA                    ,RODRIGUEZ                 ,MARIN                     
+116120490,506015, ,20280207,00000,CRISTHOFER                    ,GUIDO                     ,MARIN                     
+116110624,302001, ,20231104,00000,KIMBERLY MICHELLE             ,MORALES                   ,MARIN                     
+116110510,119019, ,20280927,00000,DAMIAN GERARDO                ,ZAMORA                    ,MARIN                     
+116110766,113001, ,20230529,00000,SOFIA                         ,AGUILAR                   ,MARIN                     
+116230933,115003, ,20260914,00000,MAURICIO                      ,ORDOÑEZ                   ,MARIN                     
+116230894,201026, ,20230925,00000,ELIZABERTH                    ,LEIVA                     ,MARIN                     
+116230643,101007, ,20260202,00000,KEVIN JOSUE                   ,MORALES                   ,MARIN                     
+116130932,101006, ,20230731,00000,JULIANA ODALISA               ,LEDEZMA                   ,MARIN                     
+116080024,111001, ,20230523,00000,ZAITEL STEPHANIE              ,MORA                      ,MARIN                     
+116070871,308010, ,20280207,00000,JESSY AARON                   ,MONTOYA                   ,MARIN                     
+116130336,101006, ,20230905,00000,ALISON DE LOS ANGELES         ,CAMPOS                    ,MARIN                     
+116130764,102004, ,20300204,00000,CLAUDIO CESAR                 ,LEON                      ,MARIN                     
+116120993,113006, ,20230723,00000,EDUARDO ESTEBAN               ,NARVAEZ                   ,MARIN                     
+116120710,101036, ,20241211,00000,LUIS ALONSO                   ,FERNANDEZ                 ,MARIN                     
+116120687,209011, ,20300204,00000,KAROL PAULINA                 ,VASQUEZ                   ,MARIN                     
+116120788,101006, ,20230813,00000,EDGAR JOSUE                   ,CASTRO                    ,MARIN                     
+116120801,111005, ,20230701,00000,LUIS CARLOS                   ,LUNA                      ,MARIN                     
+116120781,102006, ,20280806,00000,RICARDO GEOVANNI              ,VALVERDE                  ,MARIN                     
+116120907,405005, ,20270419,00000,JEFFRY                        ,CORDERO                   ,MARIN                     
+116120812,103004, ,20310112,00000,MARCO WILLIAM                 ,RIVERA                    ,MARIN                     
+118080413,403004, ,20320202,00000,JOHANNA VANESSA               ,GONZALEZ                  ,MARIN                     
+118080520,410010, ,20300722,00000,YAMIL ALEJANDRO               ,SEGURA                    ,MARIN                     
+118080527,107002, ,20300204,00000,REINER BERNAL                 ,QUIROS                    ,MARIN                     
+118080665,119056, ,20300917,00000,RUTH                          ,MURCIA                    ,MARIN                     
+118080637,102002, ,20300204,00000,JOSEL FIORELLA                ,SALAS                     ,MARIN                     
+118040161,101028, ,20290130,00000,ALEXA JESUS                   ,MONTERO                   ,MARIN                     
+118080234,814001, ,20301020,00000,NISSY JIREH                   ,CHINCHILLA                ,MARIN                     
+118030608,104018, ,20300204,00000,CARLOS ANDRES                 ,MONTERO                   ,MARIN                     
+118030615,109002, ,20320202,00000,JOHAN ANDRES                  ,BATISTA                   ,MARIN                     
+118030763,409001, ,20300204,00000,JULIAN                        ,LOPEZ                     ,MARIN                     
+118030916,102002, ,20320318,00000,XIMENA                        ,MORA                      ,MARIN                     
+118070526,110001, ,20320202,00000,MONICA DEL CARMEN             ,BRENES                    ,MARIN                     
+118070634,119078, ,20320202,00000,JOSE PABLO                    ,RUBI                      ,MARIN                     
+118070622,119075, ,20300204,00000,KEMBLY LIZETH                 ,MORALES                   ,MARIN                     
+117860030,605002, ,20280823,00000,MARIA ALEJANDRA               ,MEJIA                     ,MARIN                     
+117860073,119026, ,20280723,00000,KENDRA JOSE                   ,MARTINEZ                  ,MARIN                     
+118020001,104024, ,20290130,00000,STEVEN ANDREY                 ,FERNANDEZ                 ,MARIN                     
+118020188,102001, ,20290121,00000,SANTIAGO                      ,ZELEDON                   ,MARIN                     
+118070758,602001, ,20300204,00000,GERARDO JOSE                  ,VALVERDE                  ,MARIN                     
+118010862,103030, ,20300204,00000,VICTOR EDUARDO                ,AGUERO                    ,MARIN                     
+118010853,303005, ,20290129,00000,ANDRES ADOLFO                 ,HERNANDEZ                 ,MARIN                     
+118070927,401001, ,20320202,00000,KEVIN DANIEL                  ,CALDERON                  ,MARIN                     
+118020792,503020, ,20300204,00000,NICOLE DAYANA                 ,BARRANTES                 ,MARIN                     
+118030023,608047, ,20300204,00000,LEXI DANIELA                  ,MORALES                   ,MARIN                     
+118030035,209011, ,20300313,00000,EMILY YARIELA                 ,VASQUEZ                   ,MARIN                     
+118030036,209011, ,20290128,00000,EIMY YULIANA                  ,VASQUEZ                   ,MARIN                     
+118020297,108011, ,20290118,00000,KERLYN VANESSA                ,CEDEÑO                    ,MARIN                     
+118020488,106001, ,20290122,00000,MARY PAZ                      ,ROMERO                    ,MARIN                     
+118020551,201022, ,20300204,00000,LUIS RODRIGO                  ,GIORDANA                  ,MARIN                     
+117580396,410031, ,20280710,00000,YESSICA MARIA                 ,UREÑA                     ,MARIN                     
+117580584,119083, ,20280207,00000,LIZETH                        ,BERMUDEZ                  ,MARIN                     
+117580708,107002, ,20320314,00000,JARON JOSAEL                  ,ALPIZAR                   ,MARIN                     
+117580634,109010, ,20280207,00000,HORACIO SIGIFREDO             ,PORRAS                    ,MARIN                     
+117590028,303017, ,20320202,00000,ROBERTO JOSE                  ,NABORIO                   ,MARIN                     
+117590131,201005, ,20290117,00000,ALEXANDRA DE LOS ANGELES      ,GUTIERREZ                 ,MARIN                     
+117590146,102002, ,20320321,00000,GABRIELA MELISSA              ,MENDEZ                    ,MARIN                     
+117590154,103007, ,20290102,00000,CHRISTIAN JOSUE               ,GAITAN                    ,MARIN                     
+117590291,307001, ,20280207,00000,MARIPAZ                       ,FERNANDEZ                 ,MARIN                     
+117590448,108010, ,20320202,00000,ANDRES GUSTAVO                ,GUZMAN                    ,MARIN                     
+117850350,108001, ,20301015,00000,DAYANNA PAOLA                 ,SALAZAR                   ,MARIN                     
+117790573,206001, ,20300204,00000,ARIANA SOFIA                  ,MORALES                   ,MARIN                     
+117790608,110001, ,20300204,00000,WENDY MARIAM                  ,MORA                      ,MARIN                     
+117840983,301013, ,20280820,00000,WILKER DE JESUS               ,CASTRO                    ,MARIN                     
+117630522,104036, ,20280207,00000,MARIA FRANCINI                ,QUIROS                    ,MARIN                     
+117810085,103006, ,20280628,00000,DIANA JOSETH                  ,RODRIGUEZ                 ,MARIN                     
+117810057,102001, ,20300803,00000,MELANIE                       ,GUERRERO                  ,MARIN                     
+117810482,119074, ,20300305,00000,ELIER                         ,SOLIS                     ,MARIN                     
+117810455,108001, ,20300204,00000,ESTEBAN                       ,ROJAS                     ,MARIN                     
+117810382,119062, ,20280706,00000,SELENIA MARIA                 ,QUESADA                   ,MARIN                     
+117810383,119023, ,20280620,00000,YARICSA MARIA                 ,SEGURA                    ,MARIN                     
+117810829,106001, ,20280621,00000,OLMAN JOSUE                   ,ESPINOZA                  ,MARIN                     
+117810647,107019, ,20280626,00000,DESIRE MARIA                  ,JIMENEZ                   ,MARIN                     
+117810523,303005, ,20280716,00000,MELANY PAOLA                  ,REDONDO                   ,MARIN                     
+117800766,103004, ,20281031,00000,TATIANA PAOLA                 ,GAMBOA                    ,MARIN                     
+117800737,111002, ,20320202,00000,JONATHAN HUMBERTO             ,LEON                      ,MARIN                     
+117790819,102004, ,20300204,00000,JOHANNA DE LOS ANGELES        ,LEON                      ,MARIN                     
+117570226,108001, ,20280207,00000,STEPHANIE MARIA               ,RODRIGUEZ                 ,MARIN                     
+117570659,101007, ,20320222,00000,KENDALL ANDRES                ,BLANCO                    ,MARIN                     
+117580048,103001, ,20300204,00000,ISMAEL JOSE                   ,SANCHO                    ,MARIN                     
+117570782,104014, ,20280207,00000,CESAR ANDRES                  ,MORA                      ,MARIN                     
+117570806,303017, ,20280207,00000,CESAR ANTONIO                 ,BALLESTERO                ,MARIN                     
+117570984,116005, ,20301026,00000,DANIEL ADOLFO                 ,TORRES                    ,MARIN                     
+117570902,403003, ,20280207,00000,GRETCHEL DANIELA              ,CORRALES                  ,MARIN                     
+117630114,104001, ,20280207,00000,RYAN ANDRES                   ,BARRANTES                 ,MARIN                     
+117630220,119081, ,20280207,00000,GRENDELY MARIAN               ,ALVAREZ                   ,MARIN                     
+117630221,119001, ,20320202,00000,HEIMY DANIELA                 ,ARROYO                    ,MARIN                     
+117620297,603001, ,20280207,00000,KARLA SOFIA                   ,VILLEGAS                  ,MARIN                     
+117620663,303017, ,20300204,00000,LILLIAM PAMELA                ,VILLAGRA                  ,MARIN                     
+117620807,503046, ,20300204,00000,CRISTOBAL JOSE                ,VARGAS                    ,MARIN                     
+117620760,102002, ,20280207,00000,MELISSA NATHALIA              ,AGUILAR                   ,MARIN                     
+117350871,303006, ,20320202,00000,ADRIAN GUSTAVO                ,RODRIGUEZ                 ,MARIN                     
+117350970,108011, ,20300414,00000,JORGE ALEJANDRO               ,MORA                      ,MARIN                     
+117360409,119099, ,20270314,00000,RANDY JOSE                    ,ZUÑIGA                    ,MARIN                     
+117370054,103031, ,20270403,00000,KEILYN                        ,RODRIGUEZ                 ,MARIN                     
+117370039,107018, ,20281119,00000,MARIA MICHELLE                ,SEGURA                    ,MARIN                     
+117360861,103005, ,20320202,00000,AIMEE DAYAN                   ,LOPEZ                     ,MARIN                     
+117360903,101015, ,20261216,00000,MICHELLE ANDREA               ,IZAGUIRRE                 ,MARIN                     
+117360691,101022, ,20320202,00000,MARIA JOSE                    ,CALDERON                  ,MARIN                     
+117340988,111001, ,20270407,00000,YEILIN PAOLA                  ,CESPEDES                  ,MARIN                     
+117400821,401010, ,20270323,00000,ALEXANDRA LIZETH              ,ROJAS                     ,MARIN                     
+117350426,118004, ,20270125,00000,MARIELA PAMELA                ,ESPINOZA                  ,MARIN                     
+117350783,206001, ,20270224,00000,ANDREA DE JESUS               ,NAVARRO                   ,MARIN                     
+117400570,101037, ,20300504,00000,ANDREY GUILLERMO              ,ESPINOZA                  ,MARIN                     
+117400552,503001, ,20320311,00000,YEIMY MARIA                   ,BALTODANO                 ,MARIN                     
+117390937,201051, ,20280924,00000,SHARON DE LOS ANGELES         ,BULLIO                    ,MARIN                     
+117390754,101008, ,20280207,00000,MARIA LAURA                   ,GUTIERREZ                 ,MARIN                     
+117390746,110008, ,20270424,00000,MARIA FERNANDA                ,MEZA                      ,MARIN                     
+117390720,501019, ,20320202,00000,PRISCILLA                     ,UMAÑA                     ,MARIN                     
+117390610,703012, ,20270320,00000,GENESIS ILEANA                ,JOYA                      ,MARIN                     
+117140345,103030, ,20301113,00000,ANGIE MELISSA                 ,RIVERA                    ,MARIN                     
+117140231,103005, ,20280207,00000,JOSTIN RODOLFO                ,MORA                      ,MARIN                     
+117390570,114003, ,20280323,00000,MELANY JOSETH                 ,CASTRO                    ,MARIN                     
+117140054,503013, ,20260713,00000,ERIC FRANCISCO                ,MOREIRA                   ,MARIN                     
+117130929,109004, ,20280207,00000,KENNETH ALBERTO               ,LORIA                     ,MARIN                     
+117130285,104018, ,20260622,00000,WENDY PATRICIA                ,CHAVES                    ,MARIN                     
+117130469,110001, ,20320202,00000,RAUL ALEJANDRO                ,GUILLEN                   ,MARIN                     
+117170709,102001, ,20270508,00000,JOSE DANIEL                   ,ROJAS                     ,MARIN                     
+117170231,115005, ,20300518,00000,ROY SEBASTIAN                 ,RAMIREZ                   ,MARIN                     
+117170135,702006, ,20280207,00000,CINTHYA MARIA                 ,OBANDO                    ,MARIN                     
+117170414,401017, ,20261010,00000,LUZ CAROLINA                  ,POVEDA                    ,MARIN                     
+117170948,101036, ,20280823,00000,JOSE ANDRES                   ,ROSALES                   ,MARIN                     
+117170906,103005, ,20260818,00000,MANUEL EZEQUIEL               ,ARAYA                     ,MARIN                     
+117170920,112005, ,20280207,00000,KERLYN YANINNE                ,UMAÑA                     ,MARIN                     
+117170940,102002, ,20260829,00000,MARIANA                       ,BARBOZA                   ,MARIN                     
+117170936,101028, ,20280927,00000,KARLY DILANA                  ,MONTERO                   ,MARIN                     
+117120681,101007, ,20280207,00000,MARIA DEL MILAGRO             ,ROMERO                    ,MARIN                     
+117120969,119083, ,20300204,00000,HAZLIN PAMELA                 ,NUÑEZ                     ,MARIN                     
+117130063,101023, ,20280516,00000,DWIGHT                        ,LEIVA                     ,MARIN                     
+117130122,101008, ,20320202,00000,GINA MARIA                    ,ELIZONDO                  ,MARIN                     
+117180692,408003, ,20320202,00000,MONICA MARIA                  ,FALLAS                    ,MARIN                     
+117180528,102001, ,20280207,00000,MARCO ANTONIO                 ,ESPINOZA                  ,MARIN                     
+203260136,210013, ,20300204,00000,WILLIAM                       ,JIMENEZ                   ,MARIN                     
+203530965,210066, ,20310120,00000,MARIA DEL ROSARIO             ,ESQUIVEL                  ,MARIN                     
+203530840,211001, ,20280216,00000,OSCAR ANTONIO                 ,DURAN                     ,MARIN                     
+203240695,210077, ,20320202,00000,MARIA DE LOS ANGELES          ,VARGAS                    ,MARIN                     
+203240730,201046, ,20320202,00000,OSCAR MARIO                   ,ALFARO                    ,MARIN                     
+203250002,206007, ,20300204,00000,MARTA GRACE                   ,MURILLO                   ,MARIN                     
+203240329,108006, ,20270113,00000,CARLOS MANUEL                 ,JIMENEZ                   ,MARIN                     
+203240454,206009, ,20320314,00000,NURIA MARIA                   ,NAVARRO                   ,MARIN                     
+203250376,209010, ,20301215,00000,MARIBEL                       ,AGUERO                    ,MARIN                     
+203250206,202029, ,20260228,00000,MARIA EMILENA                 ,LIZANO                    ,MARIN                     
+203250062,210089, ,20280315,00000,EDUARDO                       ,ZAMORA                    ,MARIN                     
+203480987,201011, ,20230702,00000,MARIA TERESA                  ,SEGURA                    ,MARIN                     
+203480899,201069, ,20280207,00000,LUIS ANGEL                    ,DELGADO                   ,MARIN                     
+203480890,201010, ,20261130,00000,ELENA HILDA                   ,MOLINA                    ,MARIN                     
+203480120,202012, ,20280207,00000,VERA CRUZ                     ,SOLIS                     ,MARIN                     
+203490561,210068, ,20300929,00000,MARIA EUGENIA                 ,RODRIGUEZ                 ,MARIN                     
+203550395,207003, ,20220731,00000,FLOR MARIA                    ,ROJAS                     ,MARIN                     
+203540847,101002, ,20320202,00000,MARTA EUGENIA                 ,AVILA                     ,MARIN                     
+203540848,201068, ,20270505,00000,MARCO ANTONIO                 ,AVILA                     ,MARIN                     
+203550099,209003, ,20290109,00000,ADILIA                        ,BERMUDEZ                  ,MARIN                     
+203200398,201007, ,20300204,00000,DANIEL GERARDO                ,RODRIGUEZ                 ,MARIN                     
+203200442,201003, ,20300204,00000,CARLOS MANUEL                 ,RODRIGUEZ                 ,MARIN                     
+203230196,203020, ,20280316,00000,GUILLERMO                     ,CUBERO                    ,MARIN                     
+203230444,201051, ,20230524,00000,JOSE ANTONIO                  ,MORALES                   ,MARIN                     
+203230716,201002, ,20300204,00000,RODOLFO                       ,CAJINA                    ,MARIN                     
+202880434,208005, ,20300204,00000,FRANCISCO                     ,MELENDEZ                  ,MARIN                     
+202880497,303006, ,20230206,00000,LOURDES                       ,CASTILLO                  ,MARIN                     
+203190360,608030, ,20270105,00000,OMAR                          ,CABEZAS                   ,MARIN                     
+202821452,705013, ,20300204,00000,AMPARO CECILIA                ,BONILLA                   ,MARIN                     
+202851201,206014, ,20260202,00000,MARIA DE LOS ANGELES          ,VARGAS                    ,MARIN                     
+202870011,203001, ,20240620,00000,JOSE ANTONIO                  ,CUBERO                    ,MARIN                     
+202870200,401010, ,20231203,00000,DEYANIRA                      ,AGUERO                    ,MARIN                     
+202870534,201002, ,20280207,00000,SARA                          ,CAJINA                    ,MARIN                     
+202870302,119033, ,20270109,00000,JORGE                         ,UMAÑA                     ,MARIN                     
+202871183,202004, ,20300204,00000,RAFAEL ANGEL                  ,GONZALEZ                  ,MARIN                     
+202871401,207005, ,20300204,00000,CLAUDIO                       ,SOLORZANO                 ,MARIN                     
+203830363,601086, ,20260203,00000,ARTURO                        ,VASQUEZ                   ,MARIN                     
+203850760,210051, ,20260726,00000,DEYANIRA                      ,ROJAS                     ,MARIN                     
+203550770,101001, ,20250818,00000,FRANCISCO                     ,PORRAS                    ,MARIN                     
+203860782,205003, ,20260202,00000,ADA LUZ                       ,RODRIGUEZ                 ,MARIN                     
+203860341,210051, ,20230110,00000,BERTA                         ,ALFARO                    ,MARIN                     
+203870377,201042, ,20320202,00000,RAFAEL GILBERTO               ,ARAYA                     ,MARIN                     
+203870996,201011, ,20300204,00000,JOSE LUIS                     ,SEGURA                    ,MARIN                     
+203870970,109001, ,20300204,00000,ANA LUCIA                     ,AGUERO                    ,MARIN                     
+203870652,205003, ,20300204,00000,BEATRIZ                       ,QUESADA                   ,MARIN                     
+203880981,210089, ,20260927,00000,GEINER                        ,MORA                      ,MARIN                     
+203880856,202012, ,20320202,00000,PILAR                         ,SOLIS                     ,MARIN                     
+203880401,206009, ,20260202,00000,CARLOS ALBERTO                ,NAVARRO                   ,MARIN                     
+203880690,210058, ,20260715,00000,KRISMILDAD                    ,MEJIAS                    ,MARIN                     
+204000855,109012, ,20280207,00000,MARTA GISELLE                 ,QUIROS                    ,MARIN                     
+204010544,202004, ,20300204,00000,JUNNIOR GERARDO               ,SOLIS                     ,MARIN                     
+204010532,202013, ,20300820,00000,MARIA EUGENIA                 ,VASQUEZ                   ,MARIN                     
+204020653,201070, ,20270526,00000,VERA VIOLETA                  ,SEGURA                    ,MARIN                     
+204020398,203015, ,20300204,00000,ROCIO                         ,ARAYA                     ,MARIN                     
+204020399,210012, ,20230205,00000,RODOLFO                       ,HERNANDEZ                 ,MARIN                     
+204020415,210072, ,20231113,00000,JOSE MANUEL                   ,JIMENEZ                   ,MARIN                     
+204020418,108001, ,20230502,00000,JUAN ALFONSO                  ,MONTERO                   ,MARIN                     
+204020455,203007, ,20301126,00000,JOHN                          ,BOLAÑOS                   ,MARIN                     
+204020230,214015, ,20240502,00000,SERGIO GERARDO                ,RODRIGUEZ                 ,MARIN                     
+204070765,405001, ,20320205,00000,LUIS ALBERTO                  ,CHAVARRIA                 ,MARIN                     
+204180262,211002, ,20230812,00000,OLMAN                         ,DURAN                     ,MARIN                     
+204180203,214015, ,20320202,00000,MANUEL ENRIQUE                ,RODRIGUEZ                 ,MARIN                     
+204180235,207003, ,20250507,00000,BERNARDITA                    ,ROJAS                     ,MARIN                     
+204180200,207003, ,20270418,00000,MARIA DE LOS ANGELES          ,VARGAS                    ,MARIN                     
+204190138,210051, ,20300204,00000,GILBERTO GERARDO              ,ROJAS                     ,MARIN                     
+204190063,303005, ,20280712,00000,NIMROD                        ,CABEZAS                   ,MARIN                     
+204190698,201053, ,20270223,00000,CARLOS ALBERTO                ,MURILLO                   ,MARIN                     
+204190537,202050, ,20320202,00000,ANA ZEDY                      ,ARTAVIA                   ,MARIN                     
+202480125,404003, ,20280207,00000,ROBERTO MANUEL                ,MIRANDA                   ,MARIN                     
+202400450,203001, ,20300923,00000,JULIETA                       ,CUBERO                    ,MARIN                     
+202400968,210078, ,20280207,00000,MARIA EULALIA                 ,PORRAS                    ,MARIN                     
+202410149,210081, ,20300204,00000,RAFAEL MARIA                  ,QUESADA                   ,MARIN                     
+202560246,206005, ,20240919,00000,MARIA ANITA                   ,BONILLA                   ,MARIN                     
+202560374,210020, ,20320325,00000,JOSE JOAQUIN                  ,RODRIGUEZ                 ,MARIN                     
+202490217,202020, ,20230318,00000,FRANCISCO                     ,RETANA                    ,MARIN                     
+202490484,209003, ,20280207,00000,LETICIA                       ,BERMUDEZ                  ,MARIN                     
+202500210,203001, ,20320202,00000,MARIA DEL CARMEN              ,LIZANO                    ,MARIN                     
+202490955,206008, ,20300204,00000,MARIA DEL CARMEN              ,CESPEDES                  ,MARIN                     
+202580529,103002, ,20280207,00000,FRANKLIN                      ,JIMENEZ                   ,MARIN                     
+202580697,211002, ,20240212,00000,MARIA YOLANDA                 ,MORALES                   ,MARIN                     
+202580096,211010, ,20320202,00000,ADRIAN                        ,QUESADA                   ,MARIN                     
+202570815,206002, ,20320209,00000,BERTILIO FABIO                ,ROJAS                     ,MARIN                     
+202570296,203001, ,20240318,00000,LUIS ALEJANDRO                ,CUBERO                    ,MARIN                     
+202770985,203047, ,20310128,00000,MARIA LIDIETH                 ,CHACON                    ,MARIN                     
+202770966,210035, ,20300204,00000,OLGA MARTA                    ,GONZALEZ                  ,MARIN                     
+202811206,207011, ,20240219,00000,DINIA                         ,NUÑEZ                     ,MARIN                     
+202771213,201051, ,20241020,00000,ANA ISABEL                    ,MORALES                   ,MARIN                     
+202811410,201032, ,20320202,00000,IRIABEL                       ,SOLIS                     ,MARIN                     
+202811469,211001, ,20260920,00000,NIDIA ANITA                   ,ALFARO                    ,MARIN                     
+202820795,101036, ,20261219,00000,MARIA BENILDA                 ,CHINCHILLA                ,MARIN                     
+202180224,210099, ,20260202,00000,MARIA FRANCISCA               ,GAMBOA                    ,MARIN                     
+202180078,210058, ,20240127,00000,ELIS                          ,JIMENEZ                   ,MARIN                     
+202170401,214014, ,20281128,00000,ELIDA                         ,CHAVES                    ,MARIN                     
+202160293,210001, ,20320202,00000,EMERITA                       ,ESQUIVEL                  ,MARIN                     
+202150940,201037, ,20300204,00000,ELIZABETH                     ,MIRANDA                   ,MARIN                     
+202160871,204002, ,20220531,00000,ESPERANZA                     ,ALVAREZ                   ,MARIN                     
+118920835,106010, ,20320202,00000,ANDY DANIEL                   ,BONILLA                   ,MARIN                     
+118920859,702004, ,20320202,00000,ZIANNY CHANTHALL              ,BRENES                    ,MARIN                     
+118920641,103005, ,20320202,00000,DYLAN ANDRES                  ,SANCHEZ                   ,MARIN                     
+118920752,111008, ,20320202,00000,VALERIA                       ,RIVAS                     ,MARIN                     
+202150441,409001, ,20250901,00000,LIDIA                         ,SOLANO                    ,MARIN                     
+202150442,206001, ,20280207,00000,MARIA ROSA                    ,MONTOYA                   ,MARIN                     
+202150171,202017, ,20260318,00000,ANA MARIA                     ,MIRANDA                   ,MARIN                     
+118920969,102006, ,20320202,00000,KAROLINA DE LOS ANGELES       ,MATARRITA                 ,MARIN                     
+118920952,101008, ,20320202,00000,ANDRES ESTEBAN                ,AZOFEIFA                  ,MARIN                     
+202200122,410013, ,20320202,00000,LUZ MARIA                     ,UGALDE                    ,MARIN                     
+202060319,210014, ,20300204,00000,ESTEBAN                       ,RAMIREZ                   ,MARIN                     
+202060354,210058, ,20320202,00000,CRISTINA                      ,BENAVIDES                 ,MARIN                     
+202190038,201051, ,20320202,00000,CARLOS ALBERTO                ,LUNA                      ,MARIN                     
+202180374,119035, ,20310111,00000,JUAN LUIS                     ,ESPINOZA                  ,MARIN                     
+202180284,119075, ,20260317,00000,TERESITA                      ,LIZANO                    ,MARIN                     
+202180857,210049, ,20300204,00000,FRANCISCO LUIS                ,PORRAS                    ,MARIN                     
+202400268,210011, ,20261129,00000,MARIA CRISTINA                ,GAMBOA                    ,MARIN                     
+202400237,113004, ,20300204,00000,THELMA                        ,SALAZAR                   ,MARIN                     
+202090297,210082, ,20301119,00000,MIGUEL ANGEL                  ,MEJIAS                    ,MARIN                     
+202070968,115005, ,20280207,00000,MIREYA                        ,ZONTA                     ,MARIN                     
+202060872,206001, ,20280207,00000,JOSE ANTONIO                  ,BONILLA                   ,MARIN                     
+202060837,210100, ,20320202,00000,VIRGINIA                      ,ESQUIVEL                  ,MARIN                     
+202070237,119035, ,20230415,00000,RODOLFO                       ,ESPINOZA                  ,MARIN                     
+118970550,102001, ,20320202,00000,GABRIEL JOSUE                 ,ROJAS                     ,MARIN                     
+118970441,101026, ,20320202,00000,JONATHAN ANDRES               ,CRUZ                      ,MARIN                     
+118970442,107015, ,20320202,00000,KENLLY LIDIETH                ,MONGE                     ,MARIN                     
+118970130,110009, ,20281030,00000,MAC KENZIE                    ,MARIN                     ,MARIN                     
+118970414,108012, ,20320202,00000,KRYSTEL                       ,VARGAS                    ,MARIN                     
+118970817,101003, ,20320215,00000,ANDRES                        ,MIRANDA                   ,MARIN                     
+118970041,119062, ,20320202,00000,WALBIN ANDRES                 ,FONSECA                   ,MARIN                     
+118960604,119025, ,20320202,00000,ADOISON ARGENIS               ,VARGAS                    ,MARIN                     
+118960547,114001, ,20320202,00000,VALERIA                       ,BADILLA                   ,MARIN                     
+118960480,119059, ,20320202,00000,EDGAR FABRICIO                ,TORRES                    ,MARIN                     
+118960672,106001, ,20320202,00000,KEREN MARCELA                 ,CRUZ                      ,MARIN                     
+118960308,119082, ,20320202,00000,ISAAC ALEJANDRO               ,GARRO                     ,MARIN                     
+118960443,103003, ,20320202,00000,JOSE RAFAEL                   ,SANDI                     ,MARIN                     
+118950918,210012, ,20320202,00000,JUAN PABLO                    ,ALVARADO                  ,MARIN                     
+118740960,118001, ,20320202,00000,NICOLE STACY                  ,RIOTTE                    ,MARIN                     
+118740925,110007, ,20320202,00000,MARIA FERNANDA                ,MOYA                      ,MARIN                     
+118740758,103026, ,20320202,00000,RACHEL JIMENA                 ,ROJAS                     ,MARIN           
